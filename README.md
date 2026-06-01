@@ -1,4 +1,4 @@
-# Copilot Payment Operations Assistant — Demo Site
+# Copilot Payment Operations Assistant — Demo Site 
 
 Static demo site styled as Microsoft Copilot Studio that showcases 10 agentic
 payment-operations demos with mock data and a chat-driven Excel workbench.
